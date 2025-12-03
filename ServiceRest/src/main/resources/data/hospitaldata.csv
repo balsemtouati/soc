@@ -1,0 +1,60 @@
+﻿NomHopital;Type;Ville ;Telephone;Adresse ;LitsTotales;Specialites Principales;latitude;longitude;litsOccupees;litsDisponibles;urgence_ouvert;temps_attente_urgence;niveau_surcharge;nb_medecins_disponibles;nb_infirmiers_disponibles;nb_ambulances_disponibles;respirateurs_disponibles;bloc_operatoire_disponible
+Hôpital Charles Nicolle;Public (CHU);Tunis;+216 71 578 000;Bd 9 Avril 1938, Tunis;1047;Multidisciplinaire, Urgences, Dermato;35.80467;0.665344;943;104;VRAI;61.0;élevé;186;346;16;60;VRAI
+Hôpital La Rabta;Public (CHU);Tunis;+216 71 578 800;Bab Saadoun, Tunis;900;Cardio, Infectieux, Chirurgie, Gastro;34.159386;-6.910891;900;99;VRAI;56.0;élevé;145;325;7;42;VRAI
+Hôpital Habib Thameur;Public (CHU);Tunis;+216 71 397 000;Montfleury, Tunis;345;Pédiatrie, Urgences, Gastro, Ophtalmo;30.974411;1.40924;300;45;VRAI;27.0;faible;66;109;4;13;VRAI
+Hôpital Militaire de Tunis;Militaire;Tunis;+216 71 391 133;Montfleury, Tunis;600;Pôle d'excellence, Greffes, Cardio;34.986381;6.044341;600;0;VRAI;47.0;élevé;87;207;6;29;VRAI
+Hôpital Mongi Slim;Public (CHU);La Marsa;+216 71 764 033;Sidi Daoud, La Marsa;246;Chirurgie viscérale, Gynéco, Pédiatrie;36.400523;-3.474422;243;3;VRAI;21.0;faible;44;90;2;15;VRAI
+Hôpital Abderrahmen Mami;Public (CHU);Ariana;+216 71 713 645;Route de Raoued, Ariana;355;Pneumologie, Chirurgie thoracique, Covid;33.757836;-5.123296;354;1;VRAI;58.0;modéré;54;114;4;21;VRAI
+Hôpital Mahmoud El Matri;Public (Local);Ariana;+216 71 821 621;Ariana Ville;150;Maternité, Chirurgie du jour, Urgences;30.722932;10.032568;150;0;VRAI;24.0;faible;26;59;2;5;VRAI
+Institut Mohamed Kassab;Public (Institut);Manouba;+216 71 606 962;Ksar Saïd, Manouba;300;Orthopédie, Traumatologie (Os/Articulations);31.083931;-6.11126;300;0;VRAI;11.0;modéré;52;103;3;15;FAUX
+Hôpital Razi;Public (Institut);Manouba;+216 71 600 300;La Manouba;600;Psychiatrie, Neurologie, Pédopsychiatrie;34.28796;1.364486;598;2;VRAI;16.0;modéré;98;182;6;39;VRAI
+Centre Traumatologie et Grands Brûlés;Public (Centre);Ben Arous;+216 71 385 500;Ben Arous;200;Urgences graves, Grands brûlés, Réa;34.161394;-0.70737;200;0;VRAI;42.0;élevé;47;67;2;10;VRAI
+Hôpital Yasminette;Public (Régional);Ben Arous;+216 71 388 000;El Yasminette, Ben Arous;250;Médecine interne, Urgences, Maternité;34.962459;-0.652114;250;0;VRAI;22.0;faible;54;71;1;9;VRAI
+Institut Salah Azaïez;Public (Institut);Tunis;+216 71 263 980;Bab Saadoun;187;Cancérologie (Oncologie), Radiothérapie;37.288698;1.914972;180;7;VRAI;34.0;faible;24;52;2;11;FAUX
+Hôpital d'Enfants Béchir Hamza;Public (CHU);Tunis;+216 71 577 700;Bab Saadoun;400;Pédiatrie exclusive, Chirurgie enfant;30.186446;3.015;400;0;VRAI;62.0;modéré;65;136;3;24;VRAI
+Hôpital Habib Bougatfa;Public (CHU);Bizerte;+216 72 431 422;Bizerte Ville;440;Chirurgie, Cardiologie, Maternité;34.545119;9.328327;440;0;VRAI;11.0;modéré;77;145;4;23;VRAI
+Hôpital Mohamed Tahar Maamouri;Public (CHU);Nabeul;+216 72 285 633;Mrezga, Nabeul;300;Urgences, Ophtalmo, Orthopédie;32.32751;-5.293787;297;3;VRAI;52.0;élevé;42;89;4;6;VRAI
+Hôpital Sahloul;Public (CHU);Sousse;+216 73 369 411;Sahloul, Sousse;630;Chirurgie Cardiaque, Neuro, Urgences Vitales;31.870407;3.3389;600;30;VRAI;9.0;modéré;116;236;12;34;VRAI
+Hôpital Farhat Hached;Public (CHU);Sousse;+216 73 221 411;Sousse Ville;694;Maternité, Oncologie, Dermato, Dentaire;33.58408;0.221165;690;4;VRAI;29.0;modéré;110;240;12;38;VRAI
+CHU Fattouma Bourguiba;Public (CHU);Monastir;+216 73 106 000;Monastir;700;Imagerie, Cardio, Pédiatrie, Néonat;34.607848;-6.279066;700;0;VRAI;29.0;élevé;127;247;6;36;VRAI
+CHU Tahar Sfar;Public (CHU);Mahdia;+216 73 109 000;Mahdia;400;Maternité, Orthopédie, Dialyse;35.729425;7.944743;400;0;VRAI;14.0;modéré;55;114;6;18;VRAI
+CHU Hédi Chaker;Public (CHU);Sfax;+216 74 244 511;Route El Ain, Sfax;890;Pédiatrie, Gynéco, Rhumato, Infectieux;31.108375;10.709775;800;90;VRAI;90.0;modéré;150;312;10;44;VRAI
+CHU Habib Bourguiba;Public (CHU);Sfax;+216 74 240 388;Route Aéroport, Sfax;555;Neurochirurgie, Cardio, Brûlés;33.439111;0.734745;500;55;VRAI;23.0;modéré;106;200;5;23;VRAI
+Hôpital Ibn El Jazzar;Public (CHU);Kairouan;+216 77 226 700;Kairouan;600;Pôle régional centre, Urgences, Chirurgie;31.486532;10.194892;330;20;VRAI;58.0;élevé;78;214;7;25;VRAI
+Hôpital Régional de Jendouba;Public (Régional);Jendouba;+216 78 603 000;Jendouda;350;Traumatologie, Maternité, Urgences;35.588911;4.526239;230;20;VRAI;30.0;élevé;51;120;1;23;VRAI
+Hôpital Régional de Béja;Public (Régional);Béja;+216 78 456 100;Béja;250;Chirurgie, Dialyse, Pédiatrie;30.687908;-4.492629;223;27;VRAI;69.0;élevé;44;78;3;13;VRAI
+Hôpital Régional du Kef;Public (Régional);Le Kef;+216 78 201 000;Le Kef;300;Médecine interne, Urgences, Ortho;30.894131;-5.491289;183;117;VRAI;12.0;modéré;52;97;2;15;VRAI
+Hôpital Régional de Siliana;Public (Régional);Siliana;+216 78 872 100;Siliana;200;Urgences, Maternité;34.243289;5.980444;152;48;VRAI;72.0;modéré;39;65;3;15;VRAI
+Hôpital Régional de Kasserine;Public (Régional);Kasserine;+216 77 474 600;Kasserine;300;Urgences traumatologiques, Chirurgie;35.999028;-1.848096;250;50;VRAI;72.0;élevé;35;95;2;13;VRAI
+Hôpital Régional de Sidi Bouzid;Public (Régional);Sidi Bouzid;+216 76 632 600;Sidi Bouzid;320;Urgences, Pédiatrie, Gynéco;30.897544;-0.828629;300;20;FAUX;;élevé;60;112;2;12;VRAI
+Hôpital Mohammed Ben Sassi;Public (Régional);Gabès;+216 75 282 700;Gabès;400;Chirurgie, Réa, Maternité;31.244302;8.693347;350;50;VRAI;42.0;élevé;65;113;3;27;VRAI
+Hôpital Militaire de Gabès;Militaire;Gabès;+216 75 274 888;Gabès;600;Polyvalent, Urgences Sud;32.190445;1.70199;600;0;VRAI;44.0;élevé;170;369;4;55;VRAI
+Hôpital Houcine Bouzaiene;Public (Régional);Gafsa;+216 76 225 055;Gafsa;350;Urgences minières, Ortho, Cardio;33.619294;7.326277;320;30;VRAI;54.0;élevé;60;111;2;25;VRAI
+Hôpital Régional de Médenine;Public (Régional);Médenine;+216 75 640 044;Médenine;280;Référence Sud-Est, Maternité;32.541417;-4.329619;240;40;VRAI;25.0;faible;43;99;9;17;VRAI
+Hôpital Régional de Tataouine;Public (Régional);Tataouine;+216 75 860 122;Tataouine;180;Médecine générale, Urgences zone désertique;34.905768;11.390265;180;0;VRAI;96.0;élevé;34;49;5;8;VRAI
+Hôpital Régional de Tozeur;Public (Régional);Tozeur;+216 76 452 400;Tozeur;150;Urgences, Ophtalmo, Maternité;35.064792;6.207816;148;2;VRAI;7.0;modéré;30;44;1;7;VRAI
+Hôpital Régional de Kebili;Public (Régional);Kebili;+216 75 490 600;Kebili;160;Scorpionisme (Urgences), Médecine;36.400085;-2.161338;155;5;VRAI;17.0;modéré;34;41;3;9;VRAI
+Hôpital Local de Mateur;Public (Local);Bizerte;+216 72 465 022;Mateur Ville;60;Urgences, Maternité, Médecine;30.50375;-4.120023;40;0;VRAI;22.0;faible;8;20;1;5;VRAI
+Hôpital Local de Ras Jebel;Public (Local);Bizerte;+216 72 447 300;Ras Jebel;40;Soins de base, Urgences jour;31.81029;-1.685655;47;3;VRAI;24.0;faible;12;13;0;1;VRAI
+Hôpital Local de Tebourba;Public (Local);Manouba;+216 71 530 053;Tebourba;50;Médecine générale, Urgences;31.8455;-6.876285;100;20;VRAI;31.0;faible;3;19;0;2;VRAI
+Hôpital Local de Zarzis;Public (Local);Zarzis;+216 75 684 400;Route de Médenine, Zarzis;120;Dialyse, Maternité, Urgences;36.470734;-8.175092;100;0;VRAI;4.0;faible;19;47;1;5;VRAI
+Hôpital Local de Ben Guerdane;Public (Local);Ben Guerdane;+216 75 620 188;Ben Guerdane;100;Urgences frontalières, Chirurgie;35.336685;-5.160829;79;1;VRAI;23.0;faible;5;35;1;1;VRAI
+Hôpital Local de Kélibia;Public (Local);Kélibia;+216 72 296 066;Kélibia (Cap Bon);80;Urgences de base, Maternité;34.643393;-4.912582;80;0;VRAI;20.0;modéré;20;24;0;4;VRAI
+Hôpital Régional Menzel Temime;Public (Régional);Menzel Temime;+216 72 300 355;Menzel Temime;150;Urgences, Dialyse, Gynéco;30.223761;-1.201131;100;50;VRAI;7.0;faible;28;46;1;5;VRAI
+Hôpital Local de Grombalia;Public (Local);Grombalia;+216 72 255 333;Grombalia;50;Urgences, Maternité;37.448134;3.609704;18;32;VRAI;20.0;faible;8;18;1;4;VRAI
+Hôpital Local de Korba;Public (Local);Korba;+216 72 384 222;Korba;40;Médecine générale;35.688167;11.665025;21;19;VRAI;18.0;faible;7;23;0;3;VRAI
+Hôpital Régional de Zaghouan;Public (Régional);Zaghouan;+216 72 670 122;Zaghouan;180;Médecine générale, Urgences;36.587743;-0.543136;105;75;VRAI;1.0;faible;35;70;0;8;VRAI
+Hôpital Local de Thala;Public (Local);Kasserine;+216 77 416 100;Thala;40;Urgences, Maternité;34.35742;0.064628;25;15;FAUX;;modéré;5;15;1;0;VRAI
+Hôpital Local de Makthar;Public (Local);Siliana;+216 78 890 055;Makthar;50;Urgences, Médecine;36.60777;-2.58211;21;29;VRAI;16.0;faible;7;13;6;1;VRAI
+Hôpital Local de Chebba;Public (Local);Mahdia;+216 73 630 088;Chebba;60;Soins de base;30.727334;8.885099;38;22;VRAI;16.0;modéré;7;25;1;4;FAUX
+Hôpital Local de Tabarka;Public (Local);Jendouba;+216 78 670 033;Tabarka;60;Urgences, Dialyse;30.904915;9.901666;21;39;VRAI;9.0;faible;6;19;3;2;VRAI
+Hôpital Local d'Enfidha;Public (Local);Sousse;+216 73 250 055;Enfidha;50;Urgences route;37.050143;9.737374;36;14;VRAI;39.0;modéré;8;17;0;0;VRAI
+Hôpital Local de Moknine;Public (Local);Monastir;+216 73 475 222;Moknine;80;Dialyse, Urgences;36.876363;-1.705034;51;29;VRAI;23.0;modéré;14;31;0;2;VRAI
+Hôpital Local de Ksar Hellal;Public (Local);Monastir;+216 73 545 100;Ksar Hellal;80;Maternité, Urgences;35.958428;4.378717;57;23;VRAI;36.0;modéré;20;29;1;2;VRAI
+Hôpital Local de Metlaoui;Public (Local);Gafsa;+216 76 241 122;Metlaoui;90;Urgences, Médecine;34.742121;-0.262867;73;17;VRAI;39.0;élevé;14;32;1;3;VRAI
+Hôpital Sadok Mokaddem;Public (Régional);Djerba;+216 75 650 018;Houmt Souk, Djerba;220;Urgences touristiques, Dialyse;36.693658;6.942296;197;23;VRAI;50.0;élevé;34;71;4;9;VRAI
+Clinique Hannibal;Privé;Tunis (Berges du Lac);+216 71 137 000;Les Berges du Lac 2;180;Internationale, Cardio, Oncologie;30.943553;-6.347182;120;60;FAUX;;modéré;33;56;2;7;VRAI
+Clinique Amen Mutuelleville;Privé;Tunis;+216 71 790 000;Mutuelleville;140;Réseau Amen, Cardio, Urgences;35.260433;11.049034;89;51;VRAI;20.0;modéré;21;45;0;11;FAUX
+Clinique Amen La Marsa;Privé;La Marsa;+216 71 749 000;La Marsa;50;Chirurgie esthétique, Maternité;36.929059;8.835122;42;8;FAUX;;élevé;10;12;0;3;VRAI
+Clinique Les Jasmins;Privé;Tunis (Centre Urbain);+216 36 089 000;Centre Urbain Nord;100;Maternité, PMA, Chirurgie;32.925469;11.971912;90;10;VRAI;33.0;faible;14;36;1;8;VRAI
+Clinique Carthagène;Privé;Tunis (Centre Urbain);+216 31 336 336;Centre Urbain Nord;250;Polyvalente, Urgences, Cardio;37.324981;-1.769807;250;0;VRAI;26.0;modéré;45;93;5;17;VRAI
