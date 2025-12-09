@@ -1,0 +1,7 @@
+{
+  "/farmer/page": "app/farmer/page.js",
+  "/farmer/products/new/page": "app/farmer/products/new/page.js",
+  "/farmer/products/page": "app/farmer/products/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js"
+}

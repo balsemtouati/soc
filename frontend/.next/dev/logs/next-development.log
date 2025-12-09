@@ -1,0 +1,287 @@
+[00:00:01.098] Server  LOG     
+[00:00:01.098] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.099] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.099] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.100] Server  LOG     
+[00:00:01.100] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.100] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.100] Server  LOG     
+[00:00:01.488] Server  LOG      ✓ Ready in 1039ms
+[00:00:16.330] Server  LOG      ○ Compiling / ...
+[00:00:24.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.144] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:25.144] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:25.144] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765313892529}
+[00:00:29.652] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765313897143}
+[00:00:45.287] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/farmer/products color: rgb(120, 120, 120) color: inherit {"dp":"/farmer/products","o":"http://localhost:3000/farmer/products","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765313912735}
+[00:00:47.518] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:00:47.518] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:00:51.196] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/farmer color: rgb(120, 120, 120) color: inherit {"dp":"/farmer","o":"http://localhost:3000/farmer","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765313918623}
+[00:00:51.196] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:00:51.196] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:00:51.546] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/farmer/products color: rgb(120, 120, 120) color: inherit {"dp":"/farmer/products","o":"http://localhost:3000/farmer/products","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765313919013}
+[00:00:51.546] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:00:51.546] Browser ERROR   Erreur lors du chargement des produits: {}
+[00:01:00.366] Server  ERROR    ⨯ ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:00.493] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:01.596] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:01.739] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:02.607] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:02.660] Server  ERROR    ⨯ ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:02.982] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:03.191] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:03.191] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:05.161] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:05.332] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:05.332] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:14.079] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:14.268] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:14.268] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:17.994] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:18.152] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:18.152] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:18.881] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:19.052] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:19.052] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:20.487] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:20.635] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:20.635] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:21.348] Browser ERROR   uncaughtError: Error: ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+
+
+[00:01:21.517] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
+[00:01:21.517] Browser ERROR   ./Downloads/ProjetSOC/frontend/app/farmer/products/new/page.tsx:346:4
+Parsing ecmascript source code failed
+  344 |       </div>
+  345 |     </div>
+> 346 |   )
+      |    ^
+  347 |
+
+Expected '}', got '<eof>'
